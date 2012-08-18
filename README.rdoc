@@ -1,0 +1,28 @@
+= inherits_attrs
+
+* {Homepage}[https://github.com/sabat/inherits_attrs#readme]
+* {Issues}[https://github.com/sabat/inherits_attrs/issues]
+* {Documentation}[http://rubydoc.info/gems/inherits_attrs/frames]
+* {Email}[mailto:sabat at area51.org]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'inherits_attrs'
+
+== Requirements
+
+== Install
+
+  $ gem install inherits_attrs
+
+== Copyright
+
+Copyright (c) 2012 Steve Abatangle
+
+See LICENSE.txt for details.
